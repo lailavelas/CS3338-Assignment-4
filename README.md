@@ -1,2 +1,2 @@
 # CS3338-Assignment-4
-Repo just for the .gitignore file
+Repo containing .gitignore and final-project.txt
